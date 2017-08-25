@@ -1,0 +1,33 @@
+{
+  "name": "d2-api-explorer",
+  "version": "1.0.0",
+  "description": "Webapp to explore the bungie destiny2 api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScottMacWatters/d2-api-explorer.git"
+  },
+  "keywords": [
+    "Destiny",
+    "Destiny2",
+    "Destiny",
+    "2",
+    "Bungie",
+    "Bungie.net",
+    "Node",
+    "Heroku"
+  ],
+  "author": "Scott MacWatters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ScottMacWatters/d2-api-explorer/issues"
+  },
+  "homepage": "https://github.com/ScottMacWatters/d2-api-explorer#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
